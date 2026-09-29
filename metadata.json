@@ -1,0 +1,6 @@
+{
+  "name": "PatrimônioPro - Gestão Integrada de Activos",
+  "description": "Sistema de gestão e inventário patrimonial para frotas, equipamentos hospitalares, mobiliário, activos biológicos e instalações.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
